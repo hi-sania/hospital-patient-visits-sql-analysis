@@ -1,0 +1,2 @@
+# Optional: only required to regenerate results/executive_summary.png
+matplotlib>=3.8,<4
